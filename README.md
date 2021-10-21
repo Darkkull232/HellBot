@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>DARK SKULL🇳</b>
 </h1>
 
 <p align="center">
@@ -31,9 +31,9 @@
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://telegra.ph/file/49abf6ceadbe40d53cb73.jpg)](#Deploy-To-Heroku)
+- [![Heroku](https://telegra.ph/file/b4049a8c41ea90311868f.jpg)](#Deploy-To-Heroku)
 
-- [![Locally](https://telegra.ph/file/49abf6ceadbe40d53cb73.jpg)](#Deploy-Locally)
+- [![Locally](https://telegra.ph/file/b4049a8c41ea90311868f.jpg)](#Deploy-Locally)
 
 ------
 ## YouTube 📺
