@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>DARK SKULL🇳</b>
+  <b>DARK SKULL</b>
 </h1>
 
 <p align="center">
