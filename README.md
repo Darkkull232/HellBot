@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/49abf6ceadbe40d53cb73.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
@@ -31,9 +31,9 @@
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
+- [![Heroku](https://telegra.ph/file/49abf6ceadbe40d53cb73.jpg)](#Deploy-To-Heroku)
 
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
+- [![Locally](https://telegra.ph/file/49abf6ceadbe40d53cb73.jpg)](#Deploy-Locally)
 
 ------
 ## YouTube 📺
@@ -103,7 +103,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your HellBot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- [![Replit](https://telegra.ph/file/49abf6ceadbe40d53cb73.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 ### Terminal
 - Open the terminal.
